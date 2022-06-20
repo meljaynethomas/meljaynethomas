@@ -1,8 +1,6 @@
 <p align="right">
     <img src="https://user-images.githubusercontent.com/79028606/174578827-d31c187f-fef5-4741-875d-106cfa3f87dc.png" alt="Mel Thomas" >
-</p>
-
-&nbsp;                                                                                                               
+</p>                                                                                              
 
 <p align="center">
 My name is Mel and I am a trainee software developer. This is a career change for me, having worked as an occupational therapist for more than ten years. It's not been such a huge leap as many of the same skills and qualities are required to succeed. As healthcare professional, I communicated with my clients, assessed their needs, then devised solutions to modify and simplify the activities important to them - Very much like working in Tech. I'm now using these skills to make beautiful responsive web applications.
