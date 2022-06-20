@@ -3,6 +3,8 @@
 </p>
 
 &nbsp;
+&nbsp;                                                                                                                         
+                                                                                                                          
 
 <p align="center">
 My name is Mel and I am a trainee software developer. This is a career change for me, having worked as an occupational therapist for more than ten years. It's not been such a huge leap as many of the same skills and qualities are required to succeed. As healthcare professional, I communicated with my clients, assessed their needs, then devised solutions to modify and simplify the activities important to them - Very much like working in Tech. I'm now using these skills to make beautiful responsive web applications.
@@ -32,8 +34,8 @@ My name is Mel and I am a trainee software developer. This is a career change fo
 
 <p align="center">
   <a href="https://github.com/meljaynethomas">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=meljaynethomas&theme=tokyonight&show_icons=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meljaynethomas&theme=tokyonight&layout=compact" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meljaynethomas&theme=tokyonight&show_icons=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meljaynethomas&theme=tokyonight&layout=compact" />
   </a>
 </p>
 
